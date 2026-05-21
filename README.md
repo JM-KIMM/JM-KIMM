@@ -1,8 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=JM-KIMM&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20NLP%20%7C%20LLM%20%7C%20RAG%20%7C%20Service%20Development&descAlignY=58&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=JM-KIMM&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=LLM%20%7C%20RAG%20%7C%20NLP%20%7C%20AI%20Agent%20%7C%20AI%20Service%20Development&descAlignY=58&descSize=18)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=AI+%EB%AA%A8%EB%8D%B8%EC%9D%84+%EC%8B%A4%EC%A0%9C+%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A1%9C+%EC%97%B0%EA%B2%B0%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90;LLM+%7C+NLP+%7C+RAG+%7C+AI+AGENT;From+Model+Experiment+to+Real+World+Service)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=AI+Service+Developer;Building+RAG-based+LLM+Applications;Building+AI+Agent+Workflows;Connecting+AI+Models+to+Real+World+Services)](https://git.io/typing-svg)
 
 </div>
 
