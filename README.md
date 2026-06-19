@@ -27,7 +27,7 @@
 | Category | Details |
 |---|---|
 | 🎓 Education | Inha Univ |
-| 🤖 Interests | LLM, NLP, RAG, AI AGENT |
+| 🤖 About me | [Notion](https://invincible-keyboard-350.notion.site/3298d340b1e580508682c1150c723075?pvs=143) |
 | 🤗 Hugging Face | [jmjmjm3](https://huggingface.co/jmjmjm3) |
 
 </div>
